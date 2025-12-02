@@ -2,13 +2,14 @@
 
 # 👾 PROYECTO: MASCOTA PIXEL (Tamagotchi JS)
 
+
 <img src="image.png" alt="alt text" width="100"/> 
 <img src="image-1.png" alt="alt text" width="400"/>
 <img src="image.png" alt="alt text" width="100"/> 
 
 - [👾 PROYECTO: MASCOTA PIXEL (Tamagotchi JS)](#-proyecto-mascota-pixel-tamagotchi-js)
   - [🛠️ FASE 0: El Esqueleto (HTML y CSS)](#️-fase-0-el-esqueleto-html-y-css)
-  - [🧠 FASE 1: El Modelo (Datos)](#-fase-1-el-modelo-datos)
+  - [🧠 FAS 1: El Modelo (Datos)](#-fase-1-el-modelo-datos)
   - [👁️ FASE 2: La Vista (Renderizado)](#️-fase-2-la-vista-renderizado)
   - [🎮 FASE 3: Actualización (Interacción)](#-fase-3-actualización-interacción)
   - [⏳ FASE 4: El Paso del Tiempo (Automático)](#-fase-4-el-paso-del-tiempo-automático)
